@@ -17,7 +17,6 @@ deploy an application" Udagram" (Apache Web Server) and you also pick up code (J
 -   The launch configuration will be used by an auto-scaling group.  
 -   two vCPUs and at least 4GB of RAM. The Operating System to be used is Ubuntu 18.  
 -   to allocate at least 10GB of disk space 
--   
 -   downloading the application archive from an S3 Bucket, need to create an IAM Role that allows your instances to use the S3 Service.
 -   Udagram communicates on the default HTTP Port: 80, so servers will need this inbound port open since you will use it with the Load Balancer and the Load Balancer Health Check. for outbound, the servers will need unrestricted internet access to be able to download and update its software.
 -   The application needs to be deployed into private subnets with a Load Balancer located in a public subnet. 
