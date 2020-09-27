@@ -37,6 +37,6 @@ Deployed following two steps by aws CLI
 
 ## udagram
 
-http://serve-WebAp-17NZJNWI99REM-116963128.us-west-2.elb.amazonaws.com
+http://serve-webap-11r1elqq1k8qm-1099799243.us-west-2.elb.amazonaws.com/
 
 ![](./udagram_web.png)

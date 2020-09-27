@@ -2,5 +2,18 @@
 	{
 		"ParameterKey": "EnvironmentName",
 		"ParameterValue": "UdacityProject2"
-	}
+	},
+	{
+		"ParameterKey": "KeyName",
+		"ParameterValue": "*****"
+	},
+	{
+		"ParameterKey": "AutoscaleMax",
+		"ParameterValue": "5"
+	},
+	{
+		"ParameterKey": "AutoscaleMin",
+		"ParameterValue": "3"
+	}	
+
 ]
